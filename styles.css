@@ -16,7 +16,7 @@ body {}
 .header {
     padding: 10px;
     margin: 0 25% 0 25%;
-    text-align: right;
+    text-align: center;
     background-color: green;
     color: white;
     font-weight: 600;
@@ -29,7 +29,8 @@ body {}
     text-align: right;
     color: green;
     margin: 20px 0 40px 0;
-    padding-right: 31.5%;
+    justify-content: center;
+    padding-right: 115px;
 }
 
 .main {
